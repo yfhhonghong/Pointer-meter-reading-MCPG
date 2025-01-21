@@ -1,0 +1,1 @@
+Due to the platform limitation of uploading maximum file size not exceeding 25MB, images of MCPG were uploaded for display. Should the full dataset be required, please contact the following email address: 15882319603@163.com. The dataset will be officially opened once the article has been received.
